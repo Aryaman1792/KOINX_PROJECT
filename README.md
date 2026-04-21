@@ -22,7 +22,7 @@ A modern, highly-interactive React web application built with Next.js and Tailwi
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aryaman1792/KOINX_PROJECT.git
-   cd KOINX
+   cd KOINX_PROJECT
    ```
 
 2. Install the dependencies:
